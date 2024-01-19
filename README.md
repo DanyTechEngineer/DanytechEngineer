@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi !!!, I' am <a href="https://aristi.dev">Daniel Ramírez</a> 👋</h1>
 </div>
-<img src="https://imgur.com/eb0PD6s](https://imgur.com/eb0PD6s">
+<img src="https://imgur.com/eb0PD6s">
 
 ## Sobre mi
 
