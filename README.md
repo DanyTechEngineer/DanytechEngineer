@@ -4,12 +4,11 @@
 <img src="https://imgur.com/eb0PD6s.png">
 
 ## About me
-
-- ⭐ Mechatronics engineer with experience in project management and software development.  
-- ⭐ Developer specializing in AI, machine learning, and data analysis.
-- ⭐ Expert in generating solutions through various programming languages.
-- ⭐ Passionate about technology with experience in Industry 4.0 technologies.
-- ⭐ Self-taught and always in constant learning.
+⭐ Ingeniero Mecatrónico con experiencia en proyectos de analítica de datos.
+⭐ Aplico estadística para resolver problemas de forma lógica y estructurada.
+⭐ Me especializo en resolver retos complejos usando distintos lenguajes de programación como Python, SQL y más.
+⭐ Soy un apasionado por la tecnología, siempre buscando nuevas formas de innovar.
+⭐ Autodidacta por naturaleza, en constante búsqueda de aprendizaje y mejora continua.
 
 <br>
                     
